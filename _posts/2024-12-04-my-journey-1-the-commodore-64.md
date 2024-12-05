@@ -7,7 +7,7 @@ tags: retro-computing, commodore, commodore-64, nostalgia
 ---
 
 # The Commodore 64
-#### [My Journey](/themes/my-journey.html): Part 1
+#### [My Journey](../../../../themes/my-journey.html): Part 1
 
 <span class="eimg">
 ![The Commodore 64](https://github.com/user-attachments/assets/d0e70b77-8c71-4b46-b9b9-c8f7f2f7b6fa)
