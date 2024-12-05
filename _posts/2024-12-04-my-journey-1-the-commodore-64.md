@@ -5,6 +5,8 @@ date:   2024-12-04 11:21:23 -0800
 categories: my journey
 tags: retro-computing, commodore, commodore-64, nostalgia, my-journey
 ---
+
+# The Commodore 64
 #### My Journey: Part 1
 
 <span class="eimg">
