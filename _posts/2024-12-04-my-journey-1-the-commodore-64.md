@@ -10,7 +10,7 @@ tags: retro-computing, commodore, commodore-64, nostalgia, my-journey
 #### My Journey: Part 1
 
 <span class="eimg">
-![The Commodore 64](/assets/images/pc-c64.png)
+![The Commodore 64](https://github.com/user-attachments/assets/d0e70b77-8c71-4b46-b9b9-c8f7f2f7b6fa)
 [Evan-Amos](https://commons.wikimedia.org/w/index.php?curid=17414881){:target="_blank"}
 </span>
 
@@ -20,7 +20,7 @@ about a year and a half after it came out.  I also got a small (Zenith?) black a
 I can remember getting it hooked up to the TV and turning it on.
 
 <span class="eimg">
-![The Commodore 64 start screen in monochromatic glory](/assets/images/c64screenbw.png)
+![The Commodore 64 start screen in monochromatic glory](https://github.com/user-attachments/assets/30dcc55b-6d94-4876-92b2-04c7e32e1d24)
 A whole new world awaited...albeit not a colorful one
 </span>
 
@@ -46,7 +46,7 @@ I typed `RUN`.
 What I got was:
 
 <span class="eimg">
-![Commodore 64 screen with Eric White repeating across it](/assets/images/c64screenew.png)
+![Commodore 64 screen with Eric White repeating across it](https://github.com/user-attachments/assets/b03ced2f-5fd7-47c5-b072-a61c7c0bf667)
 </span>
 
 Eric White was my friend from down the road.  He’d been in the store sometime earlier and decided 
@@ -100,7 +100,7 @@ completing his masters in robotics, showed me some simple programs to write. And
 a typical manual for the time — extensive and detailed.
 
 <span class="eimg sml">
-![The Commodore 64 User's Guide Cover](/assets/images/c64usersguide.png)
+![The Commodore 64 User's Guide Cover](https://github.com/user-attachments/assets/b48a568b-afee-43ec-8acb-591987c822ec)
 This is a better read than any owner's manual for a modern laptop by a HUGE margin!
 </span>
 
@@ -116,7 +116,7 @@ The Datasette was for my programs, a place to save my work so it didn’t vanish
 switch.  It was the point at which I went from playing with BASIC to _programming_.
 
 <span class="eimg">
-![Commodore Datasette](/assets/images/cbmdatasette.png)
+![Commodore Datasette](https://github.com/user-attachments/assets/04a12952-2f50-4ad7-a9e1-53753ab24b87)
 [Evan-Amos](https://commons.wikimedia.org/w/index.php?curid=56287647){:target="_blank"}
 So, so, slow. But the media was cheap.
 </span>
@@ -160,7 +160,7 @@ pretty regular twice-yearly cadence. So a [1541 floppy disk drive](https://en.wi
 that sought-after color monitor, and a succession of printers rounded out my setup.
 
 <span class="eimg">
-![A Complete Commodore 64 Setup](/assets/images/c64setup.jpg)
+![A Complete Commodore 64 Setup](https://github.com/user-attachments/assets/279e5a68-0865-4145-8cad-9cc2a897e055)
 (Not my actual setup)
 </span>
 
@@ -171,8 +171,8 @@ would have to type in ever so carefully (although many had checksum utilities to
 of mistakes).
 
 <span class="eimg dbl">
-![RUN Magazine](/assets/images/mag-run.png)
-![Compute!'s Gazette Magazine](/assets/images/mag-compute-gazette.png)
+![RUN Magazine](https://github.com/user-attachments/assets/bc0b9f6e-4050-4c49-b178-a0cb47eebd17)
+![Compute!'s Gazette Magazine](https://github.com/user-attachments/assets/1231870b-1be0-49b7-94e6-bc02e39383d3)
 </span>
 
 Typing in those programs, at least the ones that weren’t just an endless list of `DATA` statements, 
