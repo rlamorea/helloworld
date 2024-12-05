@@ -1,0 +1,27 @@
+---
+---
+@import "minima";
+
+.eimg {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  font-size: 10pt;
+  font-style: italic;
+  text-align: center;
+}
+
+.eimg img { width: 100%; display: block; }
+.eimg.sml img { width: 50%; margin: 0 auto; }
+.eimg.dbl img { width: 48%; display: inline; }
+
+.eimg a {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 2px 8px;
+  font-size: 6pt;
+  background: rgb(100% 100% 100% / 33%);
+  color: black;
+}
