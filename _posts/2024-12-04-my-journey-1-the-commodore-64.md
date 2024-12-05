@@ -4,10 +4,10 @@ title:  "My Journey: The Commodore 64"
 date:   2024-12-04 11:21:23 -0800
 categories: my-journey
 tags: retro-computing, commodore, commodore-64, nostalgia
+codestyle: c64
 ---
 
-# The Commodore 64
-#### [My Journey](../../../../themes/my-journey.html): Part 1
+#### [My Journey](../../../../series/my-journey.html): Part 1
 
 <span class="eimg">
 ![The Commodore 64](https://github.com/user-attachments/assets/d0e70b77-8c71-4b46-b9b9-c8f7f2f7b6fa)
@@ -15,7 +15,7 @@ tags: retro-computing, commodore, commodore-64, nostalgia
 </span>
 
 My first computer was, like so many of my generation, a Commodore 64.  I got it for Christmas in 1983, 
-about a year and a half after it came out.  I also got a small (Zenith?) black and white TV for a monitor.
+about a year and a half after it came out.  I also got a small black and white TV for a monitor.
 
 I can remember getting it hooked up to the TV and turning it on.
 
@@ -55,7 +55,7 @@ me when I upgraded to a Commodore 128.  It was one of the more random coincidenc
 
 The beauty of BASIC was that, at its most simple, it was easy to comprehend how to tell the computer 
 to do something.  The numbered lines gave an easy and obvious point of reference.  `PRINT` did what 
-it said, and `GOTO _line number_` was self-evident.  I can think of few other languages where a 
+it said, and `GOTO` _line_number_ was self-evident.  I can think of few other languages where a 
 “HELLO WORLD” program could be written by anyone without really needing that person to understand 
 any programming language theory.
 

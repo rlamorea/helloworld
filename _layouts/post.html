@@ -26,13 +26,13 @@ layout: base
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content {{ page.codestyle }}" itemprop="articleBody">
     {{ content }}
   </div>
 
   {%- if page.tags -%}
   {% for tag in page.tags %}
-  <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+  <a href="{{site.baseurl}}/tags.html#{{tag | slugize}}">
     #{{ tag }}
   </a>
   {% endfor %}

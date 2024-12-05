@@ -1,7 +1,7 @@
 ---
 title: "My Journey"
 categories: my-journey
-layout: theme
+layout: series
 ---
 
 In this series, I explore my history in software development and engineering from

@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 collections:
-  themes:
+  series:
     output: true
     permalink: /:collection/:categories:output_ext
 

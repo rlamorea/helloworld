@@ -26,3 +26,16 @@
   background: rgba(255, 255, 255, 0.33);
   color: black;
 }
+
+// Commodore 64 code styling
+@font-face { font-family: cbm64;     src: url(fonts/PetMe64.ttf); }
+
+pre {
+  background: #3e52e9;
+  border: solid 10px #a7bbff;
+}
+code {
+  background: #3e52e9;
+  color: #a7bbff;
+  font-family: cbm64, monospace;
+}
