@@ -1,2 +1,3 @@
 baseurl: ""
 port: 4001
+comments_enabled: false

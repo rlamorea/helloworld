@@ -31,6 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+comments_enabled: true
+
 collections:
   series:
     output: true
