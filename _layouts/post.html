@@ -30,6 +30,15 @@ layout: base
     {{ content }}
   </div>
 
+  {%- if page.categories -%}
+  {% for category in page.categories %}
+  {% assign catwords = category | split: "-" %}
+  <p class="series">Explore more of the <a href="{{site.baseurl}}/archive.html#{{category | slugize}}">
+    {% for word in catwords %}{{ word | capitalize }} {% endfor %} Series
+  </a></p>
+  {% endfor %}
+  {%- endif -%}
+
   {%- if page.tags -%}
   {% for tag in page.tags %}
   <a href="{{site.baseurl}}/tags.html#{{tag | slugize}}">

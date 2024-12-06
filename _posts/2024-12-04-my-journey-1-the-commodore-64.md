@@ -182,5 +182,3 @@ Commodore 64 was my gateway into making that happen and set me (and so many othe
 a career and lifetime in software development and technology.
 
 If you're a software developer, where did you get your start? Leave a comment below and let me know.
-
-#### Explore more of the [My Journey Series](../../../../series/my-journey.html)
