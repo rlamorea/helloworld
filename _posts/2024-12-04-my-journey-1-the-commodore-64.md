@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "My Journey: The Commodore 64"
+title:  "My Journey Part 1: The Commodore 64"
 date:   2024-12-04 11:21:23 -0800
 categories: my-journey
-tags: retro-computing, commodore, commodore-64, nostalgia
+tags: retro-computing commodore commodore-64 nostalgia
 codestyle: c64
 ---
-
-#### [My Journey](../../../../series/my-journey.html): Part 1
 
 <span class="eimg">
 ![The Commodore 64](https://github.com/user-attachments/assets/d0e70b77-8c71-4b46-b9b9-c8f7f2f7b6fa)
@@ -184,3 +182,5 @@ Commodore 64 was my gateway into making that happen and set me (and so many othe
 a career and lifetime in software development and technology.
 
 If you're a software developer, where did you get your start? Leave a comment below and let me know.
+
+#### Explore more of the [My Journey Series](../../../../series/my-journey.html)
