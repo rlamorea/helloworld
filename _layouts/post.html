@@ -33,7 +33,7 @@ layout: base
   {%- if page.categories -%}
   {% for category in page.categories %}
   {% assign catwords = category | split: "-" %}
-  <p class="series">Explore more of the <a href="{{site.baseurl}}/archive.html#{{category | slugize}}">
+  <p class="series">Explore more of the <a href="{{site.baseurl}}/series/{{category | slugize}}.html">
     {% for word in catwords %}{{ word | capitalize }} {% endfor %} Series
   </a></p>
   {% endfor %}
