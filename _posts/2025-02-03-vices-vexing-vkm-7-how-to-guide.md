@@ -564,7 +564,7 @@ phase in the first episode of this series.
 Here is what my final mapping to use VICE on a macbook looks like.  It should also work fine for the mac if you 
 ignore keys outside the core keyboard.
 
-The VKM file for this mapping is available to download. The link is in the description.
+The VKM file for this mapping is available to [download from GitHub](https://github.com/RickSaysHelloWorld/VICE-vkm/blob/main/C64/gtk3_sym_c64_macbook.vkm):
 
 ### Row by Row
 
@@ -900,6 +900,10 @@ Right           0 2 0          # CRSR left/RIGHT
 
 That’s my mapping. I find it works very well — for me at least. I can type almost as fast in VICE as I can 
 normally on my macbook.
+
+You can get it here:
+
+[https://github.com/RickSaysHelloWorld/VICE-vkm/blob/main/C64/gtk3_sym_c64_macbook.vkm](https://github.com/RickSaysHelloWorld/VICE-vkm/blob/main/C64/gtk3_sym_c64_macbook.vkm)
 
 In fact, the only reason I saw “almost” is because VICE can lag a little, so sometimes I can outtype the emulator.
 
